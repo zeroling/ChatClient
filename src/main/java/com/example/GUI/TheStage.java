@@ -87,7 +87,7 @@ public class TheStage {
         TextField addressfile = new TextField();
         TextField portfile = new TextField();
         keyfile.setText("0000000000000000");
-        addressfile.setText("47.113.189.105");
+        addressfile.setText("");
         portfile.setText("41000");
         title.setTextAlignment(TextAlignment.CENTER);
         gridPane.add(aeskey, 0, 2);
